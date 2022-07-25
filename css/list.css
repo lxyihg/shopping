@@ -1,0 +1,13 @@
+.sk {
+    position: absolute;
+    border-left: 1px solid #c81523;
+}
+
+.sk_list {
+    float: left;
+}
+
+.sk_con {
+    float: left;
+}
+
